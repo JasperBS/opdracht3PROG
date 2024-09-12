@@ -1,0 +1,21 @@
+let name ="rick";
+let age =19;
+let special_power ="super speed";
+let speed =200;
+let jump_height =25;
+let car ="porsche 911 gt3";
+let is_employed =false;
+let lives_left =3;
+let lvl =9999;
+let height ="185CM";
+
+console.log (name);
+console.log (age);
+console.log (special_power);
+console.log (speed);
+console.log (jump_height);
+console.log (car);
+console.log (is_employed);
+console.log (lives_left);
+console.log (lvl);
+console.log (height);
